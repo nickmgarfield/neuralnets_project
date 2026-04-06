@@ -11,6 +11,7 @@ pandas = "^3.0.2"
 scikit-learn = "^1.8.0"
 ipykernel = "^7.2.0"
 matplotlib = "^3.10.8"
+meteostat = "^2.1.4"
 
 
 [build-system]

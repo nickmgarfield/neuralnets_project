@@ -6,12 +6,13 @@ authors = ["Nick Garfield <nick.garfield@composites.maine.edu>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.11,<3.15"
 pandas = "^3.0.2"
 scikit-learn = "^1.8.0"
 ipykernel = "^7.2.0"
 matplotlib = "^3.10.8"
 meteostat = "^2.1.4"
+torch = "^2.11.0"
 
 
 [build-system]
